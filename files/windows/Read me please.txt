@@ -1,1 +1,7 @@
-.
+TR:
+Eğerki python yüklü değil ise bu linkten indire bilirsiniz: https://www.python.org/downloads/
+çalıştırmak için python uygulaması ile çalıştıra bilir veya cmd'yi açıp dosyanın olduğu konuma gidip; python3 start.py veya python start.py komutunu kullana bilirsiniz.
+
+EN:
+If you do not have python installed, you can download it from this link: https://www.python.org/downloads/
+To run it, you can run it with a python application or open cmd and go to the location of the file. You can use; python3 start.py or python start.py .
