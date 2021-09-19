@@ -13,5 +13,5 @@ It is a tool made by LowLeery that also includes entertainment content. You are 
 Discord Servers: <br>
 [Penguin Tux](https://discord.gg/vHTfEUTX6M) & [WINST](https://discord.gg/BETgzEMb6V) <br>
 ![Gif](https://cdn.discordapp.com/attachments/879394979099836456/879397260151107614/Cizgi_sar.gif)
-<br> My discord name and ID: **leri#3131** & **823213391706325022** <br> <br>
+<br> My discord name and ID: **leri#4418** & **823213391706325022** <br> <br>
 __*Çeviri hatası görürseniz lütfen iletişim kurmaktan çekinmeyin*__
